@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoayadAbdo
-- 👀 I’m interested in Computer science and CP
-- 🌱 I’m currently learning Basics of CS & CP
+- CP and Ai and Backend
+- Specialist on codeforces ~ 700 problems solved
 
 <!---
 MoayadAbdo/MoayadAbdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
