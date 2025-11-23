@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @MoayadAbdo
-- CP and Ai and Backend
-- Specialist on codeforces ~ 700 problems solved
+# Moayad Abdo
+### Java Backend Developer | ACM-JU President | Competitive Programmer
 
-<!---
-MoayadAbdo/MoayadAbdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- President, ACM-JU Chapter  
+- Head of Program, AI Week 2025  
+- IEEEXtreme 18–19 • JCPC 2023–2025  
+- Java, Spring Boot, Algorithms
+
+## Tech Stack
+Java • Spring Boot • Maven • Git • Linux • C++ • Python
+
+## Contact
+LinkedIn: linkedin.com/in/moayad-abdo-213b49279  
+Email: moayadabdo2005@gmail.com
