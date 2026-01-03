@@ -8,7 +8,7 @@
 - Java, Spring Boot, Algorithms
 
 ## Tech Stack
-Java • Spring Boot • Maven • Git • React • C++ • Python
+Java • Spring Boot • C++ • Git • React • Maven • Python
 
 ## Contact
 LinkedIn: linkedin.com/in/moayad-abdo-213b49279  
