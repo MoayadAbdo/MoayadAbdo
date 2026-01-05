@@ -36,8 +36,7 @@
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1YJkLUvjFNEESn1dk34zKEmnC7p8G7A5_/view?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EFBF04&height=120&section=footer" alt="header"/> 
 <!--
      Thanks for being my guest <3
 -->
